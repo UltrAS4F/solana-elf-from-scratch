@@ -1,9 +1,9 @@
 #[cfg(test)]
 mod tests {
     use mollusk_svm::{Mollusk, result::Check};
-    use solana_sdk::instruction::Instruction;
-    use solana_sdk::program_error::ProgramError;
-    use solana_sdk::pubkey::Pubkey;
+    use solana_instruction::Instruction;
+    use solana_program_error::ProgramError;
+    use solana_pubkey::Pubkey;
 
     #[test]
     fn test_hello_world() {
