@@ -125,7 +125,7 @@ The instruction format per 8-byte word is: `opcode (1 byte) | dst/src (1 byte) |
 
 ## Step 4: String Table (0x0058–0x0068)
 
-The `.shstrtab` section contains null-terminated strings for section names:
+This section contains null-terminated strings for section names:
 
 | Offset | Content | String |
 |--------|---------|--------|
