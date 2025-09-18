@@ -1,0 +1,10 @@
+[package]
+name = "solana-elf-from-scratch"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[dev-dependencies]
+mollusk-svm = "0.4.1"
+solana-sdk = "2.3.1"
